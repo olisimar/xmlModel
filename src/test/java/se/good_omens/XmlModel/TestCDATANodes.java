@@ -1,7 +1,6 @@
 package se.good_omens.XmlModel;
 
-import junit.framework.Assert;
-
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import se.good_omens.xmlModel.XmlNodeCDATA;
